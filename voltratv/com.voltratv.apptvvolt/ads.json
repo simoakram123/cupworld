@@ -1,0 +1,23 @@
+{
+  
+  "App": {
+    "source" : "1,2",
+    "backupserver" : "3",
+    "source_channels" : "2",
+    "ShowEvents":false,
+    "ShowChannels":false,
+    "AllowMoviesAndSeriesToPlay":false,
+    "ShowMovies":false
+  },
+  "Player": {
+  "PlayIn": "app",
+      "PlayerPackage": "com.mixera.mixeratvappzz",
+      "PlayerIcon": "https://play-lh.googleusercontent.com/nBKr4bYR9_cjxONEBOEGOMDo1gMHxNq2UostBEOplD_3Ea35PhRdVDHIPEZrmw2pAhIbeT7LpHkNHDxXGwxJPw=w480-h960-rw",
+      "PlayerLink": "https://play.google.com/store/apps/details?id=com.maxpatchs.freehepta&hl=en_US"
+  },
+  "Update": {
+    "shouldUpdate": false,
+    "updateToVersion": 2,
+    "updateLink": "https://play.google.com/store/apps/details?id=com.maxpatchs.freehepta&hl=en_UShttps://play.google.com/store/apps/details?id=com.maxpatchs.freehepta&hl=en_US"
+  }
+}
