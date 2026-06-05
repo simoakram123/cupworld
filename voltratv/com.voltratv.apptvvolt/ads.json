@@ -4,10 +4,10 @@
     "source" : "1,2",
     "backupserver" : "3",
     "source_channels" : "2",
-    "ShowEvents":false,
+    "ShowEvents":true,
     "ShowChannels":false,
-    "AllowMoviesAndSeriesToPlay":false,
-    "ShowMovies":false
+    "AllowMoviesAndSeriesToPlay":true,
+    "ShowMovies":true
   },
   "Player": {
   "PlayIn": "app",
