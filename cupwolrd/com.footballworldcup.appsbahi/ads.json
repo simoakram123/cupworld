@@ -5,7 +5,7 @@
     "backupserver" : "3",
     "source_channels" : "2",
     "ShowEvents":true,
-    "ShowChannels":true,
+    "ShowChannels":false,
     "AllowMoviesAndSeriesToPlay":true,
     "ShowMovies":true
   },
