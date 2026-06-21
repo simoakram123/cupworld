@@ -11,9 +11,9 @@
   },
   "Player": {
   "PlayIn": "player",
-      "PlayerPackage": "com.smartflix.proplayer",
-      "PlayerIcon": "https://m.media-amazon.com/images/I/81SZr11zzOL.png",
-      "PlayerLink": "https://www.amazon.com/dp/B0FR6LS9YQ"
+      "PlayerPackage": "com.mediadock.flixmax",
+      "PlayerIcon": "https://m.media-amazon.com/images/I/71uzajJhUaL.png",
+      "PlayerLink": "https://www.amazon.com/dp/B0G9QV8X17"
   },
   "Update": {
     "shouldUpdate": false,
